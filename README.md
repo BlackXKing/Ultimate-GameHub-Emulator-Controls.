@@ -7,3 +7,5 @@ installation process has been explained in the given zip filder with Read me tex
 <img width="2712" height="1220" alt="1000050966" src="https://github.com/user-attachments/assets/814403f6-f19c-446a-8047-20e34875de7d" />
 
 Enjoy thank you
+
+One Thing:Some old games do not support the movement of camera with finger for that also i shall add a control soon
